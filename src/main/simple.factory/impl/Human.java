@@ -5,6 +5,6 @@ package main.java.simple.factory.impl;
  * @Author lichenyi
  * @Date  
  */
-public interface Human {
+public interface Human { 
     String say();
 }
