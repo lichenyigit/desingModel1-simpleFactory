@@ -1,7 +1,9 @@
 package main.java.simple.factory.extend;
 
 /**
- * Created by lichenyi on 2017/6/29 0029.
+ * 抽象工厂模式
+ * @author lichenyi
+ * @date 2017/6/30 0030 11:41
  */
 public abstract class Animal {
 

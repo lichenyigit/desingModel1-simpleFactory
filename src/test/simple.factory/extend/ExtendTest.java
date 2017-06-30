@@ -5,7 +5,9 @@ import main.java.simple.factory.extend.Monkey;
 import main.java.simple.factory.extend.Snake;
 
 /**
- * Created by lichenyi on 2017/6/29 0029.
+ * 继承工厂测试类
+ * @author lichenyi
+ * @date 2017/6/30 0030 11:44
  */
 public class Test2 {
 

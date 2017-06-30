@@ -5,7 +5,11 @@ import main.java.simple.factory.impl.Man;
 import main.java.simple.factory.impl.impl.Women;
 
 /**
- * Created by lichenyi on 2017/6/29 0029.
+ * 接口工厂测试类
+ * @param:
+ * @return
+ * @author lichenyi
+ * @date 2017/6/30 003011:34
  */
 public class Test1 {
 
